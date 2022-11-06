@@ -1,6 +1,6 @@
 # practicas IB
 Repositorio para carpetas de las prácticas
-## Authors
+## Autor
 
 - [@gabmartinbr](https://www.github.com/gabmartinbr)
 
